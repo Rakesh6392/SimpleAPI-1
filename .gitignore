@@ -27,6 +27,5 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-# Rakesh commit
 # Visual Studio 2015
 .vs/
